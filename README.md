@@ -2,6 +2,10 @@
 
 A starter project for Frontend applications, particularly Single Page Applications (a.k.a. SPAs).
 
+## Requirements
+
+- Node.js
+
 ## Installation
 
 ### Start by cloning the repository
