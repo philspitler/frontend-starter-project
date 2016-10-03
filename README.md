@@ -51,8 +51,15 @@ $ npm start
 ```bash
 $ PORT=5000 npm start
 ```
-
 *Browse to [http://localhost:5000/](http://localhost:5000/) to see your app.*
+
+### Stopping the Server
+
+```
+(ctrl+c)
+```
+
+*On occasion it may take hitting `(ctrl+c)` 2 times to stop the server.*
 
 ## Relevant Files and Directories
 
